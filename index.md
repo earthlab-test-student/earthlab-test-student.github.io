@@ -2,9 +2,7 @@
 
 Welcome to Test Student's portfolio site!
 
-## Project Number 1
-This project is about...
-<img src="/img/hilary_vir2_2023230_lrg.jpg" alt="A photo of hurricane Hilary taken with the VIIRS Satellite" width=200>
+***
 
-## Project Number 2
-This project is about...
+Projects:
+  * [Temperature over time in Colorado Springs, CO](https://earthlab-test-student.github.io/notebooks/ncei_temp_cosprings.html)
